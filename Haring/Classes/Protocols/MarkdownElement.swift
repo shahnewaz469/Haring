@@ -9,7 +9,7 @@
 import Foundation
 
 /// The base protocol for all Markdown Elements, it handles parsing through regex.
-public protocol MarkdownElement: class {
+public protocol MarkdownElement: AnyObject {
   
   var regex: String { get }
   

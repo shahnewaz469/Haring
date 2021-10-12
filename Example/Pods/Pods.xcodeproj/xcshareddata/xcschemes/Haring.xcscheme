@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1020"
+   LastUpgradeVersion = "1300"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3C19A590FD8D7E706D3715FB47281667"
+               BlueprintIdentifier = "226105F00153072170DF777E9342ECDF"
                BuildableName = "Haring.framework"
                BlueprintName = "Haring"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -45,14 +43,12 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3C19A590FD8D7E706D3715FB47281667"
+            BlueprintIdentifier = "226105F00153072170DF777E9342ECDF"
             BuildableName = "Haring.framework"
             BlueprintName = "Haring"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -63,7 +59,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3C19A590FD8D7E706D3715FB47281667"
+            BlueprintIdentifier = "226105F00153072170DF777E9342ECDF"
             BuildableName = "Haring.framework"
             BlueprintName = "Haring"
             ReferencedContainer = "container:Pods.xcodeproj">
